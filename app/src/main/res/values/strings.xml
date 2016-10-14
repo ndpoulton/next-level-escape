@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Escape Room</string>
+
+    <string name="default_time">00:00</string>
+    <string name="default_score">0</string>
+    <string name="default_incorrect">That answer is incorrect.</string>
+
+    <string name="button_launch">Start</string>
+    <string name="button_submit">Submit</string>
+    <string name="button_add">Add</string>
+    <string name="input_hint">Enter a code.</string>
+    <string name="score">Score</string>
+    <string name="parameters">Parameters</string>
+    <string name="allowed_time">Allowed Time: </string>
+    <string name="password">Secret code: </string>
+    <string name="hours">hours</string>
+    <string name="minutes">minutes</string>
+    <string name="seconds">seconds</string>
+    <string name="players">Players</string>
+
+    <string name="error_length">Answers must be exactly %1$d characters.</string>
+    <string name="error_validation">Something went wrong while checking an answer.</string>
+    <string name="already_answered">That code has already been entered.</string>
+    <string name="error_notfound">Error: Could not find a value to put here.</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email Address</string>
+
+    <string name="ending_heading">The End</string>
+    <string name="ending_your_score">Your Final Score:</string>
+    <string name="ending_default_score">0 / 0</string>
+    <string name="ending_achievements">Achievements:</string>
+
+    <string name="summary_room">Room</string>
+    <string name="summary_allowed_time">Allowed Time</string>
+    <string name="summary_timestamp">Starting Time</string>
+    <string name="summary_players">Players</string>
+</resources>
